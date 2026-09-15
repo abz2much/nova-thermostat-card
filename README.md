@@ -1,5 +1,7 @@
 # Nova Thermostat Card
 
+![Nova Thermostat Card](screenshot.png)
+
 An interactive dial thermostat card for Home Assistant, in Nova's ember/gold
 visual style — pairs naturally with the [Nova theme](https://github.com/abz2much/nova-ha-theme)
 and [Nova Hero Card](https://github.com/abz2much/nova-hero-card), but works
