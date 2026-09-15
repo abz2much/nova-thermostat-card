@@ -1,0 +1,6 @@
+{
+  "name": "Nova Thermostat Card",
+  "render_readme": true,
+  "content_in_root": true,
+  "filename": "nova-thermostat-card.js"
+}
